@@ -1,1 +1,25 @@
 
+Date,Number,Prize
+18/07/2026,9418,1st
+18/07/2026,2993,2nd
+18/07/2026,1965,3rd
+18/07/2026,0519,Starter
+18/07/2026,1044,Starter
+18/07/2026,1621,Starter
+18/07/2026,5437,Starter
+18/07/2026,5567,Starter
+18/07/2026,6457,Starter
+18/07/2026,7264,Starter
+18/07/2026,8319,Starter
+18/07/2026,9033,Starter
+18/07/2026,9811,Starter
+18/07/2026,0507,Consolation
+18/07/2026,1808,Consolation
+18/07/2026,2945,Consolation
+18/07/2026,3930,Consolation
+18/07/2026,4116,Consolation
+18/07/2026,4730,Consolation
+18/07/2026,5454,Consolation
+18/07/2026,5896,Consolation
+18/07/2026,6314,Consolation
+18/07/2026,6861,Consolation
